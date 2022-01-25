@@ -1,0 +1,54 @@
+[
+  {
+    "departmentName": "Bachelor of Technology",
+    "departmentCode": "UG4-Btech",
+    "Subjects": [
+      [
+        { "subjectCode": 101, "subjectName": "Optical Engineering" },
+        { "subjectCode": 102, "subjectName": "Python" },
+        { "subjectCode": 103, "subjectName": "Electrical Technology" }
+      ],
+      [
+        { "subjectCode": 201, "subjectName": "Cyber Security" },
+        { "subjectCode": 202, "subjectName": "C++" },
+        { "subjectCode": 203, "subjectName": "Artificial Intelligence" }
+      ],
+      [
+        { "subjectCode": 301, "subjectName": "Blockchain" },
+        { "subjectCode": 302, "subjectName": "Java" },
+        { "subjectCode": 303, "subjectName": "Web Development" }
+      ],
+      [
+        { "subjectCode": 401, "subjectName": "NFT" },
+        { "subjectCode": 402, "subjectName": "JavaScript" },
+        { "subjectCode": 403, "subjectName": "Cryptocurrency" }
+      ]
+    ]
+  },
+  {
+    "departmentName": "Masters in Computer Application",
+    "departmentCode": "PG3-MCA",
+    "Subjects": [
+      [
+        { "subjectCode": 101, "subjectName": "Numerical Analysis" },
+        { "subjectCode": 102, "subjectName": "C++" },
+        { "subjectCode": 103, "subjectName": "Computer Architecture" }
+      ],
+      [
+        { "subjectCode": 201, "subjectName": "Probability" },
+        { "subjectCode": 202, "subjectName": "Python" },
+        { "subjectCode": 203, "subjectName": "Operating System" }
+      ],
+      [
+        { "subjectCode": 301, "subjectName": "Statistics" },
+        { "subjectCode": 302, "subjectName": "Java" },
+        { "subjectCode": 303, "subjectName": "Web Development" }
+      ],
+      [
+        { "subjectCode": 401, "subjectName": "Optimization Technique" },
+        { "subjectCode": 402, "subjectName": "JavaScript" },
+        { "subjectCode": 403, "subjectName": "Data Science" }
+      ]
+    ]
+  }
+]

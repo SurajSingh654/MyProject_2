@@ -1,0 +1,172 @@
+[
+  {
+    "departmentCode": "PG3-MCA",
+    "branchCode": "Mca-Alpha-P",
+    "subjectCode": 102,
+    "questions": [
+      {
+        "Multiple Choice Questions": [
+          {
+            "type": "easy",
+            "question": "What is C++?",
+            "options": [
+              "C++ is an object oriented programming language",
+              "C++ is a procedural programming language",
+              "C++ supports both procedural and object oriented programming language",
+              "C++ is a functional programming language"
+            ],
+            "answer": 2
+          },
+          {
+            "type": "medium",
+            "question": "Which of the following is correct about this pointer in C++?",
+            "options": [
+              "this pointer is passed as a hidden argument in all static variables of a class",
+              "this pointer is passed as a hidden argument in all the functions of a class",
+              "this pointer is passed as a hidden argument in all non-static functions of a class",
+              "this pointer is passed as a hidden argument in all static functions of a class"
+            ],
+            "answer": 2
+          },
+          {
+            "type": "hard",
+            "question": " What is the benefit of c++ input and output over c input and output?",
+            "options": [
+              " Both Type safety & Exception",
+              "Sequence container",
+              " Exception",
+              "Type safety"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "Long Answers": [
+          {
+            "type": "easy",
+            "question": "What are the different data types present in C++?"
+          },
+          {
+            "type": "medium",
+            "question": "What is the difference between struct and class?"
+          },
+          {
+            "type": "hard",
+            "question": "What is polymorphism in C++?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "departmentCode": "UG4-Btech",
+    "branchCode": "Ele-Alpha-U",
+    "subjectCode": 202,
+    "questions": [
+      {
+        "Multiple Choice Questions": [
+          {
+            "type": "easy",
+            "question": "What is abstract class in C++?",
+            "options": [
+              "Any Class in C++ is an abstract class",
+              "Class from which any class is derived",
+              "Class specifically used as a base class with atleast one virtual functions",
+              "Class specifically used as a base class with atleast one pure virtual functions"
+            ],
+            "answer": 3
+          },
+          {
+            "type": "medium",
+            "question": " Which of the following constructors are provided by the C++ compiler if not defined in a class?",
+            "options": [
+              "Copy constructor",
+              "Default constructor",
+              "Assignment constructor",
+              "All of the mentioned"
+            ],
+            "answer": 3
+          },
+          {
+            "type": "hard",
+            "question": " What is the benefit of c++ input and output over c input and output?",
+            "options": [
+              "Both Type safety & Exception",
+              "Sequence container",
+              "Exception",
+              "Type safety"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "Long Answers": [
+          {
+            "type": "easy",
+            "question": "Compare compile time polymorphism and Runtime polymorphism"
+          },
+          {
+            "type": "medium",
+            "question": "Is deconstructor overloading possible? If yes then explain and if no then why?"
+          },
+          {
+            "type": "hard",
+            "question": "What do you mean by call by value and call by reference?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "departmentCode": "UG3-MCA",
+    "branchCode": "Mca-Alpha-U",
+    "subjectCode": 402,
+    "questions": [
+      {
+        "Multiple Choice Questions": [
+          {
+            "type": "easy",
+            "question": "Which of the following keywords is used to define a variable in Javascript?",
+            "options": ["var", "let", "Both A and B", "None of the above"],
+            "answer": 2
+          },
+          {
+            "type": "medium",
+            "question": "When the switch statement matches the expression with the given labels, how is the comparison done?",
+            "options": [
+              "Both the datatype and result of the expression is compared",
+              "Only the datatype of the expression is compared",
+              "Only the value of the expression is compared",
+              "None of the above"
+            ],
+            "answer": 0
+          },
+          {
+            "type": "hard",
+            "question": "What keyword is used to check whether a given property is valid or not?",
+            "options": ["in", "is in", "exists", "lies"],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "Long Answers": [
+          {
+            "type": "easy",
+            "question": "Is javascript a statically typed or a dynamically typed language?"
+          },
+          {
+            "type": "medium",
+            "question": " Explain call(), apply() and, bind() methods."
+          },
+          {
+            "type": "hard",
+            "question": "What is currying in JavaScript?"
+          }
+        ]
+      }
+    ]
+  }
+]

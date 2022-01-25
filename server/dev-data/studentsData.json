@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Suraj Singh",
+    "emailID": "suraj1324@gmail.com",
+    "phoneNumber": "3464945445",
+    "degree": "Master of Computer Application",
+    "rollNumber": 2021200035,
+    "address": "abc street,bhopal,Madhya Pradesh",
+    "gender": "Male",
+    "DOB": "11-03-1999"
+  },
+  {
+    "name": "Shree Prajapati",
+    "emailID": "jyoti1324@gmail.com",
+    "phoneNumber": "4365446877",
+    "degree": "Master of Computer Application",
+    "rollNumber": 2021200037,
+    "address": "abc street,hamirpur,Uttar Pradesh",
+    "gender": "Female",
+    "DOB": "11-01-2000"
+  },
+  {
+    "name": "Keshav Verma",
+    "emailID": "veree364@gmail.com",
+    "phoneNumber": "5559877656",
+    "degree": "Master of Computer Application",
+    "rollNumber": 2021200097,
+    "address": "tyytt street,patna,Bihar",
+    "gender": "Male",
+    "DOB": "06-05-1999"
+  },
+  {
+    "name": "Sudeep Kumar",
+    "emailID": "sudu324@gmail.com",
+    "phoneNumber": "6666464866",
+    "degree": "Master of Computer Application",
+    "rollNumber": 2021200012,
+    "address": "xyz street,hamirpur,Uttar Pradesh",
+    "gender": "Male",
+    "DOB": "10-11-1998"
+  },
+  {
+    "name": "Abhishek Dubey",
+    "emailID": "dubeyji1324@gmail.com",
+    "phoneNumber": "3464945445",
+    "degree": "Bachelor of Technology",
+    "rollNumber": 2021200030,
+    "address": "abc street,bhopal,Madhya Pradesh",
+    "gender": "Male",
+    "DOB": "11-03-1999"
+  },
+  {
+    "name": "Shatakshi Singh",
+    "emailID": "sattu1324@gmail.com",
+    "phoneNumber": "4365446877",
+    "degree": "Bachelor of Technology",
+    "rollNumber": 2021200037,
+    "address": "abc street,hamirpur,Uttar Pradesh",
+    "gender": "Female",
+    "DOB": "11-01-2000"
+  },
+  {
+    "name": "Vivek Vikram",
+    "emailID": "veree364@gmail.com",
+    "phoneNumber": "5559877656",
+    "degree": "Bachelor of Technology",
+    "rollNumber": 2021200007,
+    "address": "tyytt street,patna,Bihar",
+    "gender": "Male",
+    "DOB": "06-05-1999"
+  },
+  {
+    "name": "Satyam Pal",
+    "emailID": "satti324@gmail.com",
+    "phoneNumber": "6666464866",
+    "degree": "Bachelor of Technology",
+    "rollNumber": 2021200001,
+    "address": "xyz street,hamirpur,Uttar Pradesh",
+    "gender": "Male",
+    "DOB": "10-11-1998"
+  },
+  {
+    "name": "Suraj Singh",
+    "emailID": "suraj1324@gmail.com",
+    "phoneNumber": "3464945445",
+    "degree": "Bachelor of Computer Application",
+    "rollNumber": 2021200035,
+    "address": "abc street,bhopal,Madhya Pradesh",
+    "gender": "Male",
+    "DOB": "11-03-1999"
+  },
+  {
+    "name": "Shree Prajapati",
+    "emailID": "jyoti1324@gmail.com",
+    "phoneNumber": "4365446877",
+    "degree": "Bachelor of Computer Application",
+    "rollNumber": 2021200027,
+    "address": "abc street,hamirpur,Uttar Pradesh",
+    "gender": "Female",
+    "DOB": "11-01-2000"
+  },
+  {
+    "name": "Keshav Verma",
+    "emailID": "veree364@gmail.com",
+    "phoneNumber": "5559877656",
+    "degree": "Bachelor of Computer Application",
+    "rollNumber": 2021200017,
+    "address": "tyytt street,patna,Bihar",
+    "gender": "Male",
+    "DOB": "06-05-1999"
+  },
+  {
+    "name": "Sudeep Kumar",
+    "emailID": "sudu324@gmail.com",
+    "phoneNumber": "6666464866",
+    "degree": "Bachelor of Computer Application",
+    "rollNumber": 2021200024,
+    "address": "xyz street,hamirpur,Uttar Pradesh",
+    "gender": "Male",
+    "DOB": "10-11-1998"
+  },
+  {
+    "name": "Abhishek Dubey",
+    "emailID": "dubeyji1324@gmail.com",
+    "phoneNumber": "3464945445",
+    "degree": "Master of Technology",
+    "rollNumber": 2021200035,
+    "address": "abc street,bhopal,Madhya Pradesh",
+    "gender": "Male",
+    "DOB": "11-03-1999"
+  },
+  {
+    "name": "Shatakshi Singh",
+    "emailID": "sattu1324@gmail.com",
+    "phoneNumber": "4365446877",
+    "degree": "Master of Technology",
+    "rollNumber": 2021200037,
+    "address": "abc street,hamirpur,Uttar Pradesh",
+    "gender": "Female",
+    "DOB": "11-01-2000"
+  },
+  {
+    "name": "Vivek Vikram",
+    "emailID": "veree364@gmail.com",
+    "phoneNumber": "5559877656",
+    "degree": "Master of Technology",
+    "rollNumber": 2021200009,
+    "address": "tyytt street,patna,Bihar",
+    "gender": "Male",
+    "DOB": "06-05-1999"
+  },
+  {
+    "name": "Satyam Pal",
+    "emailID": "satti324@gmail.com",
+    "phoneNumber": "6666464866",
+    "degree": "Master of Technology",
+    "rollNumber": 2021200004,
+    "address": "xyz street,hamirpur,Uttar Pradesh",
+    "gender": "Male",
+    "DOB": "10-11-1998"
+  }
+]

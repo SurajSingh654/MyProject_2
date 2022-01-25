@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Anirban Choudhary",
+    "emailID": "anirban1324@gmail.com",
+    "phoneNumber": "3464908635",
+    "qualification": "Phd(Computer Science)",
+    "address": "abc street,bhopal,Madhya Pradesh",
+    "gender": "Male",
+    "DOB": "11-03-1999",
+    "classes": [
+      {
+        "departmentCode": "PG2-Mtech",
+        "branchCode": "Aer-Alpha-P",
+        "section": "A"
+      },
+      {
+        "departmentCode": "UG4-Btech",
+        "branchCode": "Ele-Alpha-U",
+        "section": "B"
+      }
+    ]
+  },
+  {
+    "name": "Meenakshi Soni",
+    "emailID": "meenu324@gmail.com",
+    "phoneNumber": "7644789464",
+    "qualification": "Phd(Operating System)",
+    "address": "savitri street,jaipur,Rajasthan",
+    "gender": "Female",
+    "DOB": "11-03-1999",
+    "classes": [
+      {
+        "departmentCode": "PG3-MCA",
+        "branchCode": "Mca-Alpha-P",
+        "section": "A"
+      },
+      {
+        "departmentCode": "UG3-BCA",
+        "branchCode": "Bca-Alpha-U",
+        "section": "B"
+      }
+    ]
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "departmentCode": "UG4-Btech",
+    "branches": [
+      {
+        "branchName": "Mechanical",
+        "branchCode": "Mec-Alpha-U",
+        "sections": [
+          {
+            "section": "A",
+            "studentsRollNumberRange": "2021200001-2021200035",
+            "totalStudents": 35
+          },
+          {
+            "section": "B",
+            "studentsRollNumberRange": "2021200036-2021200080",
+            "totalStudents": 45
+          }
+        ]
+      },
+      {
+        "branch": "Electrical",
+        "branchCode": "Ele-Alpha-U",
+        "sections": [
+          {
+            "section": "A",
+            "studentsRollNumberRange": "2021200001-2021200035",
+            "totalStudents": 35
+          },
+          {
+            "section": "B",
+            "studentsRollNumberRange": "2021200036-2021200080",
+            "totalStudents": 45
+          }
+        ]
+      },
+      {
+        "branchName": "Aerospace",
+        "branchCode": "Aer-Alpha-U",
+        "sections": [
+          {
+            "section": "A",
+            "studentsRollNumberRange": "2021200001-2021200035",
+            "totalStudents": 35
+          },
+          {
+            "section": "B",
+            "studentsRollNumberRange": "2021200036-2021200080",
+            "totalStudents": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "departmentCode": "UG3-BCA",
+    "branches": [
+      {
+        "branchName": "BCA",
+        "branchCode": "Bca-Alpha-U",
+        "sections": [
+          {
+            "section": "A",
+            "studentsRollNumberRange": "2021200001-2021200035",
+            "totalStudents": 35
+          },
+          {
+            "section": "B",
+            "studentsRollNumberRange": "2021200036-2021200080",
+            "totalStudents": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "departmentCode": "PG3-MCA",
+    "branches": [
+      {
+        "branchName": "MCA",
+        "branchCode": "Mca-Alpha-P",
+        "sections": [
+          {
+            "section": "A",
+            "studentsRollNumberRange": "2021200001-2021200035",
+            "totalStudents": 35
+          },
+          {
+            "section": "B",
+            "studentsRollNumberRange": "2021200036-2021200080",
+            "totalStudents": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "departmentCode": "PG2-Mtech",
+    "branches": [
+      {
+        "branchName": "Mechanical",
+        "branchCode": "Mec-Alpha-P",
+        "sections": [
+          {
+            "section": "A",
+            "studentsRollNumberRange": "2021200001-2021200035",
+            "totalStudents": 35
+          },
+          {
+            "section": "B",
+            "studentsRollNumberRange": "2021200036-2021200080",
+            "totalStudents": 45
+          }
+        ]
+      },
+      {
+        "branchName": "Electrical",
+        "branchCode": "Ele-Alpha-P",
+        "sections": [
+          {
+            "section": "A",
+            "studentsRollNumberRange": "2021200001-2021200035",
+            "totalStudents": 35
+          },
+          {
+            "section": "B",
+            "studentsRollNumberRange": "2021200036-2021200080",
+            "totalStudents": 45
+          }
+        ]
+      },
+      {
+        "branchName": "Aerospace",
+        "branchCode": "Aer-Alpha-P",
+        "sections": [
+          {
+            "section": "A",
+            "studentsRollNumberRange": "2021200001-2021200035",
+            "totalStudents": 35
+          },
+          {
+            "section": "B",
+            "studentsRollNumberRange": "2021200036-2021200080",
+            "totalStudents": 45
+          }
+        ]
+      }
+    ]
+  }
+]
