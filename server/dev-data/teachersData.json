@@ -1,6 +1,7 @@
 [
   {
     "name": "Anirban Choudhary",
+    "teacherID": 1,
     "emailID": "anirban1324@gmail.com",
     "phoneNumber": "3464908635",
     "qualification": "Phd(Computer Science)",
@@ -11,17 +12,20 @@
       {
         "departmentCode": "PG2-Mtech",
         "branchCode": "Aer-Alpha-P",
+        "subjectCode": 401,
         "section": "A"
       },
       {
         "departmentCode": "UG4-Btech",
         "branchCode": "Ele-Alpha-U",
+        "subjectCode": 201,
         "section": "B"
       }
     ]
   },
   {
     "name": "Meenakshi Soni",
+    "teacherID": 2,
     "emailID": "meenu324@gmail.com",
     "phoneNumber": "7644789464",
     "qualification": "Phd(Operating System)",
@@ -32,12 +36,32 @@
       {
         "departmentCode": "PG3-MCA",
         "branchCode": "Mca-Alpha-P",
+        "subjectCode": 101,
         "section": "A"
       },
       {
         "departmentCode": "UG3-BCA",
         "branchCode": "Bca-Alpha-U",
+        "subjectCode": 301,
         "section": "B"
+      }
+    ]
+  },
+  {
+    "teacherID": 3,
+    "name": "Sujoy Das",
+    "emailID": "das999@gmail.com",
+    "phoneNumber": "8635437409",
+    "qualification": "Phd(Python)",
+    "address": "sanigawan street,kanpur,Uttar Pradesh",
+    "gender": "Male",
+    "DOB": "11-07-1990",
+    "classes": [
+      {
+        "departmentCode": "PG3-MCA",
+        "branchCode": "Mca-Alpha-P",
+        "subjectCode": 102,
+        "section": "A"
       }
     ]
   }
