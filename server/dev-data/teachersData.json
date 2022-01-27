@@ -64,5 +64,23 @@
         "section": "A"
       }
     ]
+  },
+  {
+    "teacherID": 4,
+    "name": "GST",
+    "emailID": "gst689@gmail.com",
+    "phoneNumber": "8630937409",
+    "qualification": "Phd(Data Science)",
+    "address": "anna street,kanpur,Uttar Pradesh",
+    "gender": "Male",
+    "DOB": "o1-04-1980",
+    "classes": [
+      {
+        "departmentCode": "PG3-MCA",
+        "branchCode": "Mca-Alpha-P",
+        "subjectCode": 102,
+        "section": "A"
+      }
+    ]
   }
 ]
